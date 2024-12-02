@@ -73,6 +73,6 @@ return [
     'employee_conferences' => 'Matote visų konferencijų sąrašą.',
     'admin_page_title' => 'Administratoriaus Puslapis',
     'system_admin' => 'Sistemos Administratorius',
-    'admin_page_description' => 'Čia galite valdyti konferencijas ir naudotojų informacij.',
+    'admin_page_description' => 'Čia galite valdyti konferencijas ir naudotojų informacija.',
 
 ];
