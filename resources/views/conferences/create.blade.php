@@ -25,7 +25,7 @@
 
                             <div class="mb-4">
                                 <label for="date_time" class="block text-sm font-medium text-white-700">{{ trans('messages.date_time') }}</label>
-                                <input type="datetime-local" name="date_time" id="date_time" class="mt-1 block w-full p-3 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500" required>
+                                <input type="datetime-local" name="date_time" id="date_time" class="mt-1 block w-full p-3 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 text-gray-300" required>
                             </div>
 
                             <div class="mb-4">
